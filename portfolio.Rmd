@@ -1,0 +1,26 @@
+---
+title: "Portfolio!"
+pagetitle: 'Portfolio'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{r, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+*Check out examples of my work below*
+
+<br>
+
+- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://elivator.github.io/project1/)
+
+    - Analyzing Poor Mental Health Days, Poor PHysical Health Days, Unemplyment and Lack of Health Insurance. 
+
+<br>
+
+- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://elivator.github.io/project2/)
+
+    - Longer Description
